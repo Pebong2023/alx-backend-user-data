@@ -1,4 +1,4 @@
-0x02 session authentication
+0x02. Session authentication
 1. 0. Et moi et moi et moi!
 2. 1. Empty session
 3. 2. Create a session
@@ -10,3 +10,4 @@
 9. 8. Logout
 10. 9. Expiration?
 11. 10. Sessions in database
+
